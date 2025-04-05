@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://img.picui.cn/free/2025/04/05/67f0d47b062bf.png
+avatar: https://img.picui.cn/free/2025/04/05/67f0d5b655198.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
