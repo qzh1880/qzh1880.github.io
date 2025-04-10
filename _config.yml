@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: "qzh1880/qzh1880.github.io"
     repo_id: "R_kgDOOUUYMA"
-    category:
-    category_id:
+    category: "Announcements"
+    category_id: "DIC_kwDOOUUYMM4Co9Mh"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
