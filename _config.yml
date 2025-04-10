@@ -16,7 +16,7 @@ timezone:
 
 title: HPZ # the main title
 
-tagline: HPZ 的网络日志 /n My Personal Blog # it will display as the subtitle
+tagline: HPZ 的网络日志|My Personal Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   HPZ, blog, personal page, jekyll, github, ham.
