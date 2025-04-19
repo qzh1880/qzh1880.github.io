@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 
@@ -26,16 +26,12 @@ order: 4
 
 听古典和爵士<br>
 play小提琴<br>
-无线电（和ham通联）<br>
-无线电（折腾设备天线）<br>
+无线电（呼号**BH4HPZ**）<br>
 打羽毛球（菜）<br>
 打太极拳<br>
 看电影（只会看）<br>
 
-#### **关于名字**
-**HPZ**来自我的<a href="https://zh.wikipedia.org/wiki/%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5" target="_blank">业余无线电</a>(Amateur Radio)呼号(Callsign). 由于目前还没想出理想的网名，故在博客上暂时借用我的呼号后缀. Callsign由各国无线电管理机构核发，独一无二，所以说，这甚至是比用**真名**更彻底的“实名上网”.
 
-BTW，如果你刚好也是位ham，欢迎和我换卡.
 ### **本站简介**
 
 #### **本站定位** 
