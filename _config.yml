@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HPZ # the main title
+title: 高个子猫的小窝 # it will display as the subtitle # the main title
 
-tagline: HPZ 的网络日志<br>My Personal Blog # it will display as the subtitle
+tagline: Tallcat's Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  HPZ, blog, personal page, jekyll, github, ham.
+  高个子猫, tallcat, blog, personal page, jekyll, github, ham.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: HPZ
+  name: 高个子猫
   email: qzh1880@163.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
