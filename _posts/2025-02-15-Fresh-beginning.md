@@ -1,7 +1,7 @@
 ---
 title: "新的开始 Fresh beginning"
 date: 2025-02-15 00:00:00 +0800
-Categories: [其他,新的开始]
+categories: [随笔,规划]
 tags: [blog,随笔]
 ---
 
