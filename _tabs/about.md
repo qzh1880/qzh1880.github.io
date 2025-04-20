@@ -42,11 +42,17 @@ play小提琴<br>
 如果能给他人带来乐趣或帮助，就更好了
 
 #### **本站概况**
-本站是基于 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>+<a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank">chirpy主题</a>，托管在<a href="https://pages.github.com/" target="_blank">Github pages</a>的静态博客，域名从  <a href="https://www.namesilo.com/" target="_blank">Namesilo</a>租赁。
- 
-国内访问可能卡顿，后续将进一步优化。
+本站是基于 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>+<a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank">chirpy主题</a>，托管在<a href="https://pages.github.com/" target="_blank">Github pages</a>的静态博客，域名<a href="https://tallcat.cn/" target="_blank">tallcat.cn</a>从阿里云租赁和解析。
+
+
+~~国内访问可能卡顿，后续将进一步优化。~~
+
+现在变成国外访问卡了。 。 。
+
+鱼与熊掌不可得兼，除非氪金。
 
 ![Desktop View](/assets/img/about/pexels-pixabay-416160.jpg)
+_（这张照片是直接放GitHub里的，用于展示不用图床的加载速度）_
 #### **免责声明**
 本博客所载的材料和信息，包括但不限于文本、图片、网页或链接，虽然我们力图在博客上提供准确的材料和信息，但我们并不保证这些材料和内容的准确、完整、充分和可靠性，并且明确声明不对这些材料和内容的错误或遗漏承担责任，也不对这些材料和内容作出任何明示或默示的、包括但不限于有关所有权担保、没有侵犯第三方权利、质量和没有计算机病毒的保证。
 
