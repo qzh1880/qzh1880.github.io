@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 线性小猫 # it will display as the subtitle # the main title
 
-tagline: Tallcat's Blog # it will display as the subtitle
+tagline: tallcat.cn # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   线性小猫, tallcat, blog, personal page, jekyll, github, ham.
