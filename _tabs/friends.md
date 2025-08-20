@@ -6,7 +6,7 @@ icon: fas fa-users
 order: 4
 ---
 
-
+<!-- 
 <div class="mb-3" style="font-size: 1rem; color: #888;">
   <em>让我们的网站被更多人看到</em>
 </div>
@@ -123,7 +123,7 @@ order: 4
             <p class="card-text mb-2 mt-1" style="font-size: 1rem; line-height: 1.5;">{{ cert.description }}</p>
             {% if cert.link %}
             <div class="mt-auto pt-2">
-              <a href="{{ cert.link }}" target="_blank" class="card-link">🔗 访问网站</a>
+              <a href="{{ cert.link }}" target="_blank" class="card-link">🔗  访问网站</a>
             </div>
             {% endif %}
           </div>
@@ -132,7 +132,7 @@ order: 4
     {% endfor %}
   </div>
 </div>
-{% endfor %}
+{% endfor %} -->
 
 
 ---
