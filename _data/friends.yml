@@ -1,0 +1,21 @@
+友链:
+  - title: "example"
+    description: "一句话."
+    image: https://images.pexels.com/photos/736530/pexels-photo-736530.jpeg
+  - title: "example"
+    description: "一句话."
+    image: https://images.pexels.com/photos/736530/pexels-photo-736530.jpeg
+
+收藏:
+  - title: "example"
+    description: "一句话."
+    image: https://images.pexels.com/photos/736530/pexels-photo-736530.jpeg
+  - title: "example"
+    description: "一句话."
+    image: https://images.pexels.com/photos/736530/pexels-photo-736530.jpeg
+
+
+
+# Add more categories like this:
+# workshops:
+#   - title: ...
