@@ -6,7 +6,7 @@ icon: fas fa-users
 order: 4
 ---
 
-<!-- 
+
 <div class="mb-3" style="font-size: 1rem; color: #888;">
   <em>让我们的网站被更多人看到</em>
 </div>
@@ -132,7 +132,7 @@ order: 4
     {% endfor %}
   </div>
 </div>
-{% endfor %} -->
+{% endfor %}
 
 
 ---
