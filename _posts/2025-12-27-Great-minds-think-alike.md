@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "“想什么来什么”"
 date: 2025-12-27 15:00:00 +0800
 categories: [碎笔,2025-12]
 tags: [随笔,语文,活人感,虚无主义,确认偏误,Gemini,ChatGPT]
@@ -15,11 +15,12 @@ tags: [随笔,语文,活人感,虚无主义,确认偏误,Gemini,ChatGPT]
 上周末我和父母长谈“虚无主义”、“生活的荒诞”、“存在主义”，两天后，早读材料是<a href="https://www.yixi.tv/h5/speech/1186/" target="_blank">《理想是人生的弹簧》</a>，简直像是对几天前对话的总结。还有一次的早读材料是关于文科未来的几篇文章，也恰好是当时我在思考的话题；再如两次语文考试中遇到的迟子建和刘亮程，它们都主张万物平权与万物有灵，恰符合近年来我对自然的态度倾向；有一次我准备演讲，想论证“文学、艺术也是有评判标准的”，语文卷子上一句“欧阳文忠公言，文章如精金美玉，市有定价，非人所能以口舌定贵贱也” 正中我的需要。
 
 对于这些“不谋而合”，我想主要有两方面的原因。一方面是成长经历、家庭环境、阅读经历导致我目前所关注的问题与高中语文课、语文老师恰好契合。另一方面，我认为多多少少是有“确认偏误”（Confirmation Bias）的功劳。
->The human understanding when it has once adopted an opinion (either as being the received opinion or as being agreeable to itself) draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects, in order that by this great and pernicious predetermination the authority of its former conclusions may remain inviolate.<p align="right">— Sir Francis Bacon</p>
+>The human understanding when it has once adopted an opinion (either as being the received opinion or as being agreeable to itself) draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects, in order that by this great and pernicious predetermination the authority of its former conclusions may remain inviolate.
+><p align="right">— Sir Francis Bacon</p>
 
 然而，至少有一些例子，与“确认偏误”没有关系。
 
-在<a href="https://tallcat.cn/posts/16-years-old/" target="_blank">《读〈十八岁出门远行〉》</a>这篇随笔结尾，写道我曾说“感受不到生活的真实”（事实上，我的原话应该是“没有活着的感觉”，写随笔时觉得过于消极）。这是我今年，尤其是中考前期的真情实感，直到几周前，我都不认为这是具有普遍性的感受，也没听说过“活人感”这词。
+在<a href="https://tallcat.cn/posts/16-years-old/" target="_blank">《读〈十八岁出门远行〉》</a>这篇随笔结尾，写道我曾说“感受不到生活的真实”（事实上，我的原话应该是“没有活着的感觉”，写随笔时觉得过于消极）。这是我今年，尤其是中考前期的真情实感。直到几周前，我都不认为这是具有普遍性的感受，也没听说过“活人感”这个词。
 
 ![“活人感PPT"](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/008ulBlUgy1i8pkqgaj02j313p0l9wxf.jpg)
 
