@@ -3,8 +3,6 @@ title: "上海"
 date: 2026-02-11 12:00:00 +0800
 categories: [随笔,观影]
 tags: [电影]
-image:
-  path: 'https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008ulBlUgy1i4jadsrhl3j30xc0hik5e.jpg'
 ---
 
 &emsp;&emsp;在reddit上搜索“Classical music”，排第一的帖子是“I Don't Get Why People Don't Like Classical Music”。

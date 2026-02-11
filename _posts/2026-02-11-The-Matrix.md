@@ -3,8 +3,6 @@ title: "《黑客帝国》相见恨晚？恰逢其时"
 date: 2026-02-11 12:00:00 +0800
 categories: [随笔,观影]
 tags: [电影]
-image:
-  path: 'https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008ulBlUgy1i4jadsrhl3j30xc0hik5e.jpg'
 ---
 
 &emsp;&emsp;The Matrix 翻译成黑客帝国并不好。这个名字让人误认为它只是一部娱乐性的计算机犯罪片。
