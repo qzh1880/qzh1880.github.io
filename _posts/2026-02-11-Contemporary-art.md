@@ -1,8 +1,10 @@
 ---
-title: "上海"
+title: "我为什么喜欢当代艺术"
 date: 2026-02-11 12:00:00 +0800
-categories: [随笔,观影]
-tags: [电影]
+categories: [随笔,看展]
+tags: [当代艺术]
+image:
+  path: 'https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/008ulBlUgy1ia6x43rjaaj30xc0hi7t5.jpg'
 ---
 
 &emsp;&emsp;在reddit上搜索“Classical music”，排第一的帖子是“I Don't Get Why People Don't Like Classical Music”。
