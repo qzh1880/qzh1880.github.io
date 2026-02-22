@@ -56,5 +56,8 @@ tags: [音乐,巴赫,约翰凯奇]
 巴赫写出的和弦排列
  -->
 
+{% include embed/youtube.html id='ngjEVKxQCWs' %}
+
 2026.2.20 15:28 GMT+8
+
 写于浦东图书馆
