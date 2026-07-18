@@ -1,0 +1,36 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: 这里是线性小猫的博客`v3.0`
+      - title: 本站仓库
+        url: https://github.com/qzh1880/qzh1880.github.io
+      - title: "博客用于发布千字以上文章，短文字将一律发布在<a href='https://c7.io/@cat'>Fediverse</a> 上"
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: posts by category
+    post_list:
+      category: guidang
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: guidang-archive.html
+
+  - title: rss
+    url: feed.xml
+  
+  - title: another list
+    entries:
+      - title: About
+        url: about
+      - title: Contact me 
+        entries:
+          - title: catc7@proton.me
+
