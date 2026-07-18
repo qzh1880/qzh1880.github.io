@@ -4,10 +4,9 @@ title: "我为什么喜欢当代艺术"
 date: 2026-02-11 12:00:00 +0800
 category: suibi
 tags: [当代艺术]
-image:
-  path: 'tvax1.sinaimg.cn/large/008ulBlUgy1ia6x43rjaaj30xc0hi7t5.jpg'
 ---
 
+![展览现场](https://media.tallcat.cn/80F22FF485E1CA8276D7047F68AAC767.jpg)
 &emsp;&emsp;在reddit上搜索“Classical music”，排第一的帖子是“I Don't Get Why People Don't Like Classical Music”。
 这是个好问题，它让我提出一个新问题：为什么人们不喜欢当代艺术。
 
