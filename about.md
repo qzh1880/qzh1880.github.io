@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![](https://media.tallcat.cn/CCC.jpg)
+
 ### **线性小猫是谁**
 一个普通学生<br>
 现在大约16岁<br>
@@ -17,6 +19,8 @@ title: About
 运动<br>
 培养一些兴趣爱好<br>
 从以上几条中选材，写博客<br>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/goldberg-variations-bwv-988-1981-recording-aria/594521736"></iframe>
 
 ### **爱好（小众程度递增顺序）**
 羽毛球<br>
@@ -35,3 +39,6 @@ title: About
 练笔，供日后回顾反思
 
 如果能给他人带来乐趣或帮助，就更好了
+
+
+![](https://media.tallcat.cn/cat.png)
