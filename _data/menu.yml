@@ -28,6 +28,8 @@ entries:
   
   - title: another list
     entries:
+      - title: Show tags
+        url: tags
       - title: About
         url: about
       - title: Contact me 

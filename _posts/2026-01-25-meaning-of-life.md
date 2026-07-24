@@ -3,7 +3,7 @@ layout: post
 title: "我之生命观——高一上学期总结（想法篇）"
 date: 2026-01-25 12:00:00 +0800
 categories: guidang
-tags: []
+tags: [总结,还原论]
 ---
 
 大概半年以前，我意识到三个事实：

@@ -2,6 +2,7 @@
 layout: post
 title: "音乐的尽头"
 date: 2026-02-20 12:00:00 +0800
+tags: [巴赫]
 ---
 
 ## 一
@@ -55,7 +56,14 @@ date: 2026-02-20 12:00:00 +0800
 巴赫写出的和弦排列
  -->
 
-{% include embed/youtube.html id='ngjEVKxQCWs' %}
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin: 20px 0;">
+  <iframe src="https://www.youtube.com/watch?v=ngjEVKxQCWs" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 8px;">
+  </iframe>
+</div>
 
 2026.2.20 15:28 GMT+8
 

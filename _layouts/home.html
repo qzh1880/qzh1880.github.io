@@ -11,3 +11,14 @@ layout: default
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
+
+<style>
+  /* 仅在此布局下生效的样式 */
+  p, li {
+    line-height: 1.5;
+  }
+</style>
+
+<div class="home-wrapper">
+  {{ content }}
+</div>
