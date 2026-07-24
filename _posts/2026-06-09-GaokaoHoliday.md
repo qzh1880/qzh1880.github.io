@@ -79,7 +79,7 @@ tags: [高考作文,作文,假期,巴赫,虚无主义,失语症]
 
 6.在<a href="https://www.v2ex.com/t/993057" target="_blank">V站</a>上意外遇到音乐口味和我100%重合的网友。
 
-![巴赫哥德堡变奏曲和恰空舞曲](https://cdn.cdnjson.com/tvax4.sinaimg.cn/large/008ulBlUgy1idzhj9rdcbj318o07gacb.jpg)
+![巴赫哥德堡变奏曲和恰空舞曲](https://media.tallcat.cn/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-09%20230725.png)
 
 激动得我想当场注册个V号和他私聊，结果被注册机制劝退了（这几天笔者在 Crypto 上大亏特亏）。
 
