@@ -28,6 +28,8 @@ entries:
   
   - title: another list
     entries:
+      - title: Excerpts
+        url: excerpts
       - title: Show tags
         url: tags
       - title: About
@@ -35,4 +37,3 @@ entries:
       - title: Contact me 
         entries:
           - title: catc7@proton.me
-
